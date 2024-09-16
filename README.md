@@ -14,6 +14,10 @@ https://arxiv.org/abs/2409.05746
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
 
+User Behavior Simulation with Large Language Model based Agents
+https://arxiv.org/abs/2306.02552
+Repo: https://github.com/RUC-GSAI/YuLan-Rec
+
 ## Courses
 
 Anthropic's Prompt Engineering Interactive Tutorial
