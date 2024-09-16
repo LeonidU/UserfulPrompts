@@ -10,7 +10,7 @@ https://arxiv.org/abs/2407.21783
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
 
-### Games
+### Agents
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
 
