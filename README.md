@@ -10,6 +10,9 @@ https://arxiv.org/abs/2407.21783
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
 
+The Illusion of State in State-Space Models
+https://arxiv.org/abs/2404.08819
+
 ### Agents
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
