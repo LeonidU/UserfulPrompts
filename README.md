@@ -2,8 +2,17 @@
 
 ## Papers
 
+### Base
+The Llama 3 Herd of Models
+https://arxiv.org/abs/2407.21783
+
+### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
+
+### Games
+CALYPSO: LLMs as Dungeon Masters' Assistants
+https://arxiv.org/abs/2308.07540
 
 ## Courses
 
