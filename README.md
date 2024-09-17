@@ -2,9 +2,15 @@
 
 ## Papers
 
-### Base
+### Models
 The Llama 3 Herd of Models
 https://arxiv.org/abs/2407.21783
+
+Long Writer: Unleashing 10,000+ Word Generation from Long Context LLMs
+https://arxiv.org/abs/2408.07055
+
+Platypus: A Generalized Specialist Model for Reading Text in Various Forms
+https://arxiv.org/abs/2408.14805
 
 ### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
