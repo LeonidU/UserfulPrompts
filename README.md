@@ -40,6 +40,12 @@ https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive
 Show HN: Void, an open-source Cursor/GitHub Copilot alternative
 https://voideditor.com/
 
+AnythingLLM: The all-in-one AI app you were looking for.
+https://github.com/Mintplex-Labs/anything-llm
+
+SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning
+https://github.com/lamm-mit/SciAgentsDiscovery
+
 ## OpenSource MultiModal
 
 Pixtral
