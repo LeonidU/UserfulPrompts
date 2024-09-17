@@ -19,6 +19,9 @@ https://arxiv.org/abs/2409.05746
 The Illusion of State in State-Space Models
 https://arxiv.org/abs/2404.08819
 
+Chain of Thought Empowers Transformers to Solve Inherently Serial Problems
+https://arxiv.org/abs/2402.12875
+
 ### Agents
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
@@ -31,6 +34,11 @@ Repo: https://github.com/RUC-GSAI/YuLan-Rec
 
 Anthropic's Prompt Engineering Interactive Tutorial
 https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial
+
+## Useful NN tools
+
+Show HN: Void, an open-source Cursor/GitHub Copilot alternative
+https://voideditor.com/
 
 ## Prompts
 
