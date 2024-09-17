@@ -40,6 +40,14 @@ https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive
 Show HN: Void, an open-source Cursor/GitHub Copilot alternative
 https://voideditor.com/
 
+## OpenSource MultiModal
+
+Pixtral
+https://github.com/mistralai/mistral-common/releases/tag/v1.4.0
+
+LLaVa
+https://llava-vl.github.io/
+
 ## Prompts
 
 ### For translation from english to russian
