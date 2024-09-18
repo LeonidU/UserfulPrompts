@@ -30,6 +30,9 @@ User Behavior Simulation with Large Language Model based Agents
 https://arxiv.org/abs/2306.02552
 Repo: https://github.com/RUC-GSAI/YuLan-Rec
 
+COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas
+https://arxiv.org/pdf/2205.00872
+
 ## Courses
 
 Anthropic's Courses 
