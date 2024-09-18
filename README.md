@@ -57,6 +57,10 @@ https://github.com/Mintplex-Labs/anything-llm
 SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning
 https://github.com/lamm-mit/SciAgentsDiscovery
 
+PaperQA2: Superhuman scientific literature search
+https://www.futurehouse.org/research-announcements/wikicrow
+https://storage.googleapis.com/fh-public/paperqa/Language_Agents_Science.pdf
+
 ## OpenSource MultiModal
 
 Pixtral
