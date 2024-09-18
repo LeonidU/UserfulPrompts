@@ -32,8 +32,13 @@ Repo: https://github.com/RUC-GSAI/YuLan-Rec
 
 ## Courses
 
-Anthropic's Prompt Engineering Interactive Tutorial
+Anthropic's Courses 
+
+Prompt Engineering Interactive Tutorial
 https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial
+
+Prompt evaluations - learn how to write production prompt evaluations to measure the quality of your prompts.
+https://github.com/anthropics/courses/tree/master/prompt_evaluations
 
 ## Useful NN tools
 
