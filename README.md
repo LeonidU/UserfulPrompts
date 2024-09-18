@@ -12,6 +12,9 @@ https://arxiv.org/abs/2408.07055
 Platypus: A Generalized Specialist Model for Reading Text in Various Forms
 https://arxiv.org/abs/2408.14805
 
+SUTRA: SCALABLE MULTILINGUAL LANGUAGE MODEL ARCHITECTURE
+https://arxiv.org/pdf/2405.06694
+
 ### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
