@@ -25,6 +25,15 @@ https://arxiv.org/abs/2404.08819
 Chain of Thought Empowers Transformers to Solve Inherently Serial Problems
 https://arxiv.org/abs/2402.12875
 
+How Can Deep Neural Networks Fail Even With Global Optima?
+https://arxiv.org/pdf/2407.16872
+
+Neural Exploratory Landscape Analysis
+https://arxiv.org/pdf/2408.10672
+
+Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models
+https://arxiv.org/pdf/2408.08210
+
 ### Agents
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
@@ -68,6 +77,10 @@ https://github.com/mistralai/mistral-common/releases/tag/v1.4.0
 
 LLaVa
 https://llava-vl.github.io/
+
+VITA
+https://vita-home.github.io/
+https://www.arxiv.org/pdf/2408.05211
 
 ## Prompts
 
