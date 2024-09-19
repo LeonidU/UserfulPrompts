@@ -15,6 +15,10 @@ https://arxiv.org/abs/2408.14805
 SUTRA: SCALABLE MULTILINGUAL LANGUAGE MODEL ARCHITECTURE
 https://arxiv.org/pdf/2405.06694
 
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+https://arxiv.org/pdf/2312.00752
+https://huggingface.co/state-spaces/mamba-2.8b-hf
+
 ### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
