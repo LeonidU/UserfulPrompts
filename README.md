@@ -98,6 +98,9 @@ https://arxiv.org/pdf/2402.10835v1
 Time Series Library (TSLib)
 https://github.com/thuml/Time-Series-Library
 
+LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters
+https://arxiv.org/abs/2308.08469
+
 ## Prompts
 
 ### For translation from english to russian
