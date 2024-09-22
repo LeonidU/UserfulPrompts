@@ -90,6 +90,14 @@ VITA
 https://vita-home.github.io/
 https://www.arxiv.org/pdf/2408.05211
 
+## Q. Finance. Usage LLM/Transformers/RNN for market prediction
+
+Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities
+https://arxiv.org/pdf/2402.10835v1
+
+Time Series Library (TSLib)
+https://github.com/thuml/Time-Series-Library
+
 ## Prompts
 
 ### For translation from english to russian
