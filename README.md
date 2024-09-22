@@ -3,6 +3,10 @@
 ## Papers
 
 ### Models
+
+Llama 3 from Scratch
+https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb
+
 The Llama 3 Herd of Models
 https://arxiv.org/abs/2407.21783
 
@@ -123,4 +127,5 @@ Recognise the text in this picture. Output as a result only the recognised text 
 
 https://docs.anthropic.com/en/release-notes/system-prompts
 
-### Jailbreaks
+### Jailbreaks/Delete Censorship
+https://huggingface.co/blog/mlabonne/abliteration
