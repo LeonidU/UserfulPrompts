@@ -107,6 +107,10 @@ https://arxiv.org/abs/2308.08469
 A decoder-only foundation model for time-series forecasting
 https://arxiv.org/pdf/2310.10688
 
+Time-LLM: Time Series Forecasting by Reprogramming Large Language Models
+https://arxiv.org/abs/2310.01728
+https://github.com/KimMeen/Time-LLM
+
 ## Prompts
 
 ### For translation from english to russian
