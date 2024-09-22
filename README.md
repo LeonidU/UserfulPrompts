@@ -90,6 +90,9 @@ VITA
 https://vita-home.github.io/
 https://www.arxiv.org/pdf/2408.05211
 
+Leaderboard
+https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
+
 ## Q. Finance. Usage LLM/Transformers/RNN for market prediction
 
 Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities
