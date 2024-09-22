@@ -104,6 +104,9 @@ https://github.com/thuml/Time-Series-Library
 LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters
 https://arxiv.org/abs/2308.08469
 
+A decoder-only foundation model for time-series forecasting
+https://arxiv.org/pdf/2310.10688
+
 ## Prompts
 
 ### For translation from english to russian
