@@ -93,6 +93,11 @@ https://www.arxiv.org/pdf/2408.05211
 Leaderboard
 https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 
+## Non-English LLMs. Linguistics applications
+
+Vikhr-Nemo-12B-Instruct-R-21-09-24 
+https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24
+
 ## Q. Finance. Usage LLM/Transformers/RNN for market prediction
 
 Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities
