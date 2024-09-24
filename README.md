@@ -98,6 +98,9 @@ https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 Vikhr-Nemo-12B-Instruct-R-21-09-24 
 https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24
 
+Can we teach language models to gloss endangered languages?
+https://arxiv.org/pdf/2406.18895
+
 ## Q. Finance. Usage LLM/Transformers/RNN for market prediction
 
 Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities
@@ -115,6 +118,12 @@ https://arxiv.org/pdf/2310.10688
 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models
 https://arxiv.org/abs/2310.01728
 https://github.com/KimMeen/Time-LLM
+
+Pricing American Options using Machine Learning Algorithms
+https://arxiv.org/pdf/2409.03204
+
+A FINANCIAL TIME SERIES DENOISER BASED ON DIFFUSION MODEL
+https://arxiv.org/pdf/2409.02138
 
 ## Prompts
 
