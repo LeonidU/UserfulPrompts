@@ -23,6 +23,9 @@ Mamba: Linear-Time Sequence Modeling with Selective State Spaces
 https://arxiv.org/pdf/2312.00752
 https://huggingface.co/state-spaces/mamba-2.8b-hf
 
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+https://arxiv.org/pdf/1810.04805
+
 ### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
@@ -42,6 +45,10 @@ https://arxiv.org/pdf/2408.10672
 Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models
 https://arxiv.org/pdf/2408.08210
 
+Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
+https://arxiv.org/pdf/2405.15071
+
+
 ### Agents
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
@@ -52,6 +59,9 @@ Repo: https://github.com/RUC-GSAI/YuLan-Rec
 
 COSPLAY: Concept Set Guided Personalized Dialogue Generation Across Both Party Personas
 https://arxiv.org/pdf/2205.00872
+
+LANGUAGE AGENTS ACHIEVE SUPERHUMAN SYNTHESIS OF SCIENTIFIC KNOWLEDGE
+https://storage.googleapis.com/fh-public/paperqa/Language_Agents_Science.pdf
 
 ## Courses
 
@@ -100,6 +110,12 @@ https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24
 
 Can we teach language models to gloss endangered languages?
 https://arxiv.org/pdf/2406.18895
+
+MERA: A Comprehensive LLM Evaluation in Russian
+https://arxiv.org/pdf/2401.04531
+
+A Family of Pretrained Transformer Language Models for Russian
+https://arxiv.org/pdf/2309.10931
 
 ## Q. Finance. Usage LLM/Transformers/RNN for market prediction
 
