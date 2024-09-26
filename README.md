@@ -100,6 +100,9 @@ VITA
 https://vita-home.github.io/
 https://www.arxiv.org/pdf/2408.05211
 
+MOLMO
+https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
+
 Leaderboard
 https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 
