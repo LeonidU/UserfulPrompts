@@ -26,6 +26,9 @@ https://huggingface.co/state-spaces/mamba-2.8b-hf
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 https://arxiv.org/pdf/1810.04805
 
+Show-Me: A Visual and Transparent Reasoning Agent
+https://github.com/marlaman/show-me
+
 ### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
