@@ -101,6 +101,7 @@ https://vita-home.github.io/
 https://www.arxiv.org/pdf/2408.05211
 
 MOLMO
+https://molmo.allenai.org/paper.pdf
 https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
 
 Leaderboard
