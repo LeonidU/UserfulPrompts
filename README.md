@@ -29,6 +29,10 @@ https://arxiv.org/pdf/1810.04805
 Show-Me: A Visual and Transparent Reasoning Agent
 https://github.com/marlaman/show-me
 
+DIFFERENTIAL TRANSFORMER
+https://arxiv.org/pdf/2410.05258
+https://github.com/microsoft/unilm/tree/master/Diff-Transformer
+
 ### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
@@ -51,6 +55,11 @@ https://arxiv.org/pdf/2408.08210
 Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
 https://arxiv.org/pdf/2405.15071
 
+Were RNNs All We Needed?
+https://arxiv.org/pdf/2410.01201
+
+Connectivity Structure and Dynamics of Nonlinear Recurrent Neural Networks
+https://arxiv.org/pdf/2409.01969
 
 ### Agents
 CALYPSO: LLMs as Dungeon Masters' Assistants
