@@ -40,8 +40,15 @@ Autoregressive Pretraining with Mamba in Vision
 https://arxiv.org/pdf/2406.07537
 
 ### Theory
+
 LLMs Will Always Hallucinate, and We Need to Live With This
 https://arxiv.org/abs/2409.05746
+
+Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?
+https://arxiv.org/pdf/2405.05904
+
+Alleviating Hallucinations of Large Language Models through Induced Hallucinations
+https://arxiv.org/pdf/2312.15710
 
 The Illusion of State in State-Space Models
 https://arxiv.org/abs/2404.08819
@@ -106,6 +113,9 @@ https://arxiv.org/pdf/2205.12548
 
 Generalisation to unseen topologies: Towards control of biological neural network activity
 https://arxiv.org/pdf/2407.12789
+
+Statistical mechanics for networks of real neurons
+https://arxiv.org/pdf/2409.00412
 
 ## Courses
 
