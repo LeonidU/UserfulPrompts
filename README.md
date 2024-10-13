@@ -93,6 +93,7 @@ https://arxiv.org/pdf/2410.04708
 Can we teach language models to gloss endangered languages?
 https://arxiv.org/pdf/2406.18895
 
+
 Refusal in Language Models Is Mediated by a Single Direction
 https://arxiv.org/pdf/2406.11717
 
@@ -100,12 +101,22 @@ https://arxiv.org/pdf/2406.11717
 SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
 https://arxiv.org/pdf/2402.03620
 
+Getting Serious about Humor: Crafting Humor Datasets with Unfunny Large Language Models
+https://arxiv.org/pdf/2403.00794v1
 
 Creativity Has Left the Chat: The Price of Debiasing Language Models
 https://arxiv.org/pdf/2406.05587
 
 Scientific Large Language Models: A Survey on Biological & Chemical Domains
 https://arxiv.org/pdf/2405.12832
+
+DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data
+https://arxiv.org/pdf/2405.14333
+https://huggingface.co/papers/2405.14333
+
+You Need to Pay Better Attention: Rethinking the Mathematics of Attention Mechanism
+https://arxiv.org/pdf/2403.01643
+
 
 ### Agents
 
@@ -208,6 +219,7 @@ https://arxiv.org/pdf/2401.04531
 
 A Family of Pretrained Transformer Language Models for Russian
 https://arxiv.org/pdf/2309.10931
+
 
 ## Q. Finance. Usage LLM/Transformers/RNN for market prediction
 
