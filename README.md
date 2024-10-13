@@ -117,6 +117,16 @@ https://huggingface.co/papers/2405.14333
 You Need to Pay Better Attention: Rethinking the Mathematics of Attention Mechanism
 https://arxiv.org/pdf/2403.01643
 
+Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language Models
+https://arxiv.org/pdf/2405.05417
+
+Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory
+https://arxiv.org/pdf/2311.08719
+
+### Best Practices
+
+Best Practices and Lessons Learned on Synthetic Data
+https://arxiv.org/pdf/2404.07503
 
 ### Agents
 
@@ -161,6 +171,9 @@ https://arxiv.org/pdf/2409.00412
 
 Could a Computer Architect Understand our Brain?
 https://arxiv.org/pdf/2405.12815
+
+Reverse engineering the brain input: Network control theory to identify cognitive task-related control nodes
+https://arxiv.org/pdf/2404.16357
 
 ## Courses
 
