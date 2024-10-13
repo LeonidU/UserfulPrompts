@@ -91,6 +91,8 @@ https://arxiv.org/pdf/2205.00872
 LANGUAGE AGENTS ACHIEVE SUPERHUMAN SYNTHESIS OF SCIENTIFIC KNOWLEDGE
 https://storage.googleapis.com/fh-public/paperqa/Language_Agents_Science.pdf
 
+Character-LLM: A Trainable Agent for Role-Playing
+https://arxiv.org/abs/2310.10158
 
 Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models
 https://arxiv.org/pdf/2406.02061
