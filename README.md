@@ -39,6 +39,13 @@ https://github.com/microsoft/unilm/tree/master/Diff-Transformer
 Autoregressive Pretraining with Mamba in Vision
 https://arxiv.org/pdf/2406.07537
 
+MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens
+https://github.com/mlfoundations/MINT-1T
+https://arxiv.org/abs/2406.11271
+
+Generative Reduced Basis Method
+https://arxiv.org/pdf/2410.05139
+
 ### Theory
 
 LLMs Will Always Hallucinate, and We Need to Live With This
@@ -83,6 +90,23 @@ https://arxiv.org/pdf/2408.04569
 TIGHT STABILITY, CONVERGENCE, AND ROBUSTNESS BOUNDS FOR PREDICTIVE CODING NETWORKS
 https://arxiv.org/pdf/2410.04708
 
+Can we teach language models to gloss endangered languages?
+https://arxiv.org/pdf/2406.18895
+
+Refusal in Language Models Is Mediated by a Single Direction
+https://arxiv.org/pdf/2406.11717
+
+
+SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
+https://arxiv.org/pdf/2402.03620
+
+
+Creativity Has Left the Chat: The Price of Debiasing Language Models
+https://arxiv.org/pdf/2406.05587
+
+Scientific Large Language Models: A Survey on Biological & Chemical Domains
+https://arxiv.org/pdf/2405.12832
+
 ### Agents
 
 CALYPSO: LLMs as Dungeon Masters' Assistants
@@ -100,9 +124,16 @@ https://storage.googleapis.com/fh-public/paperqa/Language_Agents_Science.pdf
 
 Character-LLM: A Trainable Agent for Role-Playing
 https://arxiv.org/abs/2310.10158
+https://github.com/choosewhatulike/trainable-agents?tab=readme-ov-file
 
 Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models
 https://arxiv.org/pdf/2406.02061
+
+RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
+https://arxiv.org/pdf/2310.00746
+
+Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent
+https://arxiv.org/pdf/2402.13717v1
 
 ## Reinforcement Learning
 
@@ -116,6 +147,9 @@ https://arxiv.org/pdf/2407.12789
 
 Statistical mechanics for networks of real neurons
 https://arxiv.org/pdf/2409.00412
+
+Could a Computer Architect Understand our Brain?
+https://arxiv.org/pdf/2405.12815
 
 ## Courses
 
