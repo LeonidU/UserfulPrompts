@@ -55,6 +55,11 @@ https://github.com/microsoft/constrained-graph-variational-autoencoder/tree/mast
 https://arxiv.org/abs/1805.09076
 
 
+A novel molecule generative model of VAE combined with Transformer for unseen structure generation
+https://github.com/mizuno-group/TransformerVAE
+https://arxiv.org/pdf/2402.11950
+
+
 Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules
 https://github.com/aksub99/molecular-vae
 https://pubs.acs.org/doi/10.1021/acscentsci.7b00572
@@ -63,3 +68,7 @@ https://pubs.acs.org/doi/10.1021/acscentsci.7b00572
 SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks
 https://github.com/FabianFuchsML/se3-transformer-public
 https://arxiv.org/abs/2006.10503
+
+
+String-based Molecule Generation via Multi-decoder VAE
+https://arxiv.org/pdf/2208.10718
