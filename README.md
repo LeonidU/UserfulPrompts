@@ -26,12 +26,18 @@ https://huggingface.co/state-spaces/mamba-2.8b-hf
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 https://arxiv.org/pdf/1810.04805
 
+BERTs are Generative In-Context Learners
+https://arxiv.org/pdf/2406.04823
+
 Show-Me: A Visual and Transparent Reasoning Agent
 https://github.com/marlaman/show-me
 
 DIFFERENTIAL TRANSFORMER
 https://arxiv.org/pdf/2410.05258
 https://github.com/microsoft/unilm/tree/master/Diff-Transformer
+
+Autoregressive Pretraining with Mamba in Vision
+https://arxiv.org/pdf/2406.07537
 
 ### Theory
 LLMs Will Always Hallucinate, and We Need to Live With This
@@ -67,7 +73,11 @@ https://arxiv.org/pdf/2409.17027
 Activation thresholds and expressiveness of polynomial neural networks
 https://arxiv.org/pdf/2408.04569
 
+TIGHT STABILITY, CONVERGENCE, AND ROBUSTNESS BOUNDS FOR PREDICTIVE CODING NETWORKS
+https://arxiv.org/pdf/2410.04708
+
 ### Agents
+
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
 
@@ -80,6 +90,15 @@ https://arxiv.org/pdf/2205.00872
 
 LANGUAGE AGENTS ACHIEVE SUPERHUMAN SYNTHESIS OF SCIENTIFIC KNOWLEDGE
 https://storage.googleapis.com/fh-public/paperqa/Language_Agents_Science.pdf
+
+
+Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models
+https://arxiv.org/pdf/2406.02061
+
+## Reinforcement Learning
+
+RLPROMPT: Optimizing Discrete Text Prompts with Reinforcement Learning
+https://arxiv.org/pdf/2205.12548
 
 ## Biological and Near-biological Neural Networks
 
@@ -167,6 +186,9 @@ https://arxiv.org/pdf/2409.03204
 
 A FINANCIAL TIME SERIES DENOISER BASED ON DIFFUSION MODEL
 https://arxiv.org/pdf/2409.02138
+
+TIMESNET: TEMPORAL 2D-VARIATION MODELING FOR GENERAL TIME SERIES ANALYSIS
+https://openreview.net/pdf?id=ju_Uqw384Oq
 
 ## Prompts
 
