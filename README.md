@@ -61,6 +61,12 @@ https://arxiv.org/pdf/2410.01201
 Connectivity Structure and Dynamics of Nonlinear Recurrent Neural Networks
 https://arxiv.org/pdf/2409.01969
 
+Counterfactual Token Generation in Large Language Models
+https://arxiv.org/pdf/2409.17027
+
+Activation thresholds and expressiveness of polynomial neural networks
+https://arxiv.org/pdf/2408.04569
+
 ### Agents
 CALYPSO: LLMs as Dungeon Masters' Assistants
 https://arxiv.org/abs/2308.07540
@@ -74,6 +80,11 @@ https://arxiv.org/pdf/2205.00872
 
 LANGUAGE AGENTS ACHIEVE SUPERHUMAN SYNTHESIS OF SCIENTIFIC KNOWLEDGE
 https://storage.googleapis.com/fh-public/paperqa/Language_Agents_Science.pdf
+
+## Biological and Near-biological Neural Networks
+
+Generalisation to unseen topologies: Towards control of biological neural network activity
+https://arxiv.org/pdf/2407.12789
 
 ## Courses
 
