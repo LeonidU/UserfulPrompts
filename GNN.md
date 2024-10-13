@@ -33,3 +33,6 @@ https://arxiv.org/pdf/2409.17622
 Chemformer: a pre-trained transformer for computational chemistry
 https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/pdf
 https://github.com/MolecularAI/Chemformer
+
+Towards Deeper Graph Neural Networks
+https://github.com/mengliu1998/DeeperGNN/tree/master
