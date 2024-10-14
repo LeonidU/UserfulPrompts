@@ -15,3 +15,7 @@ https://www.kaggle.com/datasets/jeet2016/us-financial-news-articles
 
 FinanceDatabase
 https://github.com/JerBouma/FinanceDatabase
+
+## Russian
+Synthetic dataset from Dostoevsky, Alexey Tolskoy etc. Contain original fragments and summary from LLM
+https://huggingface.co/datasets/40umov/dostoevsky
