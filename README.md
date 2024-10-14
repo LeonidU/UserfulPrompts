@@ -185,6 +185,9 @@ https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive
 Prompt evaluations - learn how to write production prompt evaluations to measure the quality of your prompts.
 https://github.com/anthropics/courses/tree/master/prompt_evaluations
 
+Open-Source AI Cookbook
+https://huggingface.co/learn/cookbook/index
+
 ## Useful NN tools
 
 Show HN: Void, an open-source Cursor/GitHub Copilot alternative
