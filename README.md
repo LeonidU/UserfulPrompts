@@ -266,6 +266,9 @@ https://openreview.net/pdf?id=ju_Uqw384Oq
 
 ## Prompts
 
+LLM in science:
+https://xinmingtu.cn/blog/2023/LLM_science/
+
 ### For translation from english to russian
 
 Please formulate your answer on English. After that translate it into Russian language and return it to me. Don't show me answer on English
