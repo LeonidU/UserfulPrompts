@@ -6,7 +6,12 @@ https://docs.google.com/document/d/1Yy8HBlCxzkHYMWfQt5sYCwW8_OhULF_yR4m6n6jPjaI/
 GPT Role-play Realm Dataset: The AI-generated character compendium 
 https://huggingface.co/datasets/IlyaGusev/gpt_roleplay_realm
 
+## Science
+Arxiver Dataset 
+https://huggingface.co/datasets/neuralwork/arxiver
+
 ## Math
+
 
 ## Finance
 US Financial News Articles
