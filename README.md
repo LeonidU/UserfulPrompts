@@ -128,6 +128,9 @@ https://arxiv.org/pdf/2311.08719
 Best Practices and Lessons Learned on Synthetic Data
 https://arxiv.org/pdf/2404.07503
 
+The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities
+https://arxiv.org/abs/2408.13296
+
 ### Agents
 
 CALYPSO: LLMs as Dungeon Masters' Assistants
