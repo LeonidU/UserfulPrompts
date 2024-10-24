@@ -41,3 +41,9 @@ https://arxiv.org/abs/2406.11271
 
 Generative Reduced Basis Method
 https://arxiv.org/pdf/2410.05139
+
+Llama-3.1-Nemotron-70B
+https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea16abc13d8
+
+FATLLAMA-1.7T-Instruct (1.7 trillion of parameters!!!)
+https://huggingface.co/RichardErkhov/FATLLAMA-1.7T-Instruct
