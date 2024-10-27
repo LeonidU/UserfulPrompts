@@ -7,3 +7,6 @@ https://github.com/yandex-research/rtdl-num-embeddings
 
 Working with imbalanced class of data
 https://imbalanced-learn.org/stable/index.html
+
+HyperFormer: Learning Expressive Sparse Feature Representations via Hypergraph Transformer
+https://arxiv.org/pdf/2305.17386
