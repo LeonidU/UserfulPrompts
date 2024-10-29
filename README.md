@@ -184,6 +184,8 @@ https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19
 Leaderboard
 https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
 
+https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+
 ## Non-English LLMs. Linguistics applications
 
 Vikhr-Nemo-12B-Instruct-R-21-09-24 
