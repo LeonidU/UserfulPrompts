@@ -134,6 +134,9 @@ https://arxiv.org/pdf/2405.12815
 Reverse engineering the brain input: Network control theory to identify cognitive task-related control nodes
 https://arxiv.org/pdf/2404.16357
 
+Hierarchical Working Memory and a New Magic Number
+https://arxiv.org/pdf/2408.07637
+
 ## Courses
 
 Anthropic's Courses 
