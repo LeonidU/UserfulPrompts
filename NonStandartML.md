@@ -10,3 +10,6 @@ https://imbalanced-learn.org/stable/index.html
 
 HyperFormer: Learning Expressive Sparse Feature Representations via Hypergraph Transformer
 https://arxiv.org/pdf/2305.17386
+
+TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Node Features
+https://arxiv.org/pdf/2409.14500
