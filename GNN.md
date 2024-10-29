@@ -72,3 +72,6 @@ https://arxiv.org/abs/2006.10503
 
 String-based Molecule Generation via Multi-decoder VAE
 https://arxiv.org/pdf/2208.10718
+
+A Weighted GCN with Logical Adjacency Matrix for Relation Extraction
+http://ecai2020.eu/papers/957_paper.pdf
