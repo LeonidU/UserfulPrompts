@@ -79,6 +79,15 @@ https://arxiv.org/pdf/2405.05417
 Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory
 https://arxiv.org/pdf/2311.08719
 
+softmax is not enough (for sharp out-of-distribution)
+https://arxiv.org/abs/2410.01104
+
+Squared Earth Mover’s Distance-based Loss for Training Deep Neural Networks
+https://arxiv.org/pdf/1611.05916
+
+No “Zero-Shot” Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance
+https://arxiv.org/pdf/2404.04125
+
 ### Best Practices
 
 Best Practices and Lessons Learned on Synthetic Data
