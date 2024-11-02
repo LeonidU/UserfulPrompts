@@ -47,3 +47,6 @@ https://huggingface.co/collections/nvidia/llama-31-nemotron-70b-670e93cd366feea1
 
 FATLLAMA-1.7T-Instruct (1.7 trillion of parameters!!!)
 https://huggingface.co/RichardErkhov/FATLLAMA-1.7T-Instruct
+
+TOKENFORMER: RETHINKING TRANSFORMER SCALING WITH TOKENIZED MODEL PARAMETERS
+https://arxiv.org/pdf/2410.23168
