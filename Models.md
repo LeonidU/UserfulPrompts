@@ -50,3 +50,6 @@ https://huggingface.co/RichardErkhov/FATLLAMA-1.7T-Instruct
 
 TOKENFORMER: RETHINKING TRANSFORMER SCALING WITH TOKENIZED MODEL PARAMETERS
 https://arxiv.org/pdf/2410.23168
+
+Understanding the Natural Language of DNA using Encoder-Decoder Foundation Models with Byte-level Precision
+https://arxiv.org/pdf/2311.02333v2
