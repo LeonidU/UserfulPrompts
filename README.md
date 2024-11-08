@@ -49,10 +49,8 @@ https://arxiv.org/pdf/2410.04708
 Can we teach language models to gloss endangered languages?
 https://arxiv.org/pdf/2406.18895
 
-
 Refusal in Language Models Is Mediated by a Single Direction
 https://arxiv.org/pdf/2406.11717
-
 
 SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures
 https://arxiv.org/pdf/2402.03620
@@ -87,6 +85,9 @@ https://arxiv.org/pdf/1611.05916
 
 No “Zero-Shot” Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance
 https://arxiv.org/pdf/2404.04125
+
+Shortcut Learning in In-Context Learning: A Survey
+https://arxiv.org/pdf/2411.02018
 
 ### Best Practices
 
