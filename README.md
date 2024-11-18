@@ -89,6 +89,12 @@ https://arxiv.org/pdf/2404.04125
 Shortcut Learning in In-Context Learning: A Survey
 https://arxiv.org/pdf/2411.02018
 
+TL-PCA: Transfer Learning of Principal Component Analysis
+https://arxiv.org/pdf/2410.10805
+
+Shortcut Learning in In-Context Learning: A Survey
+https://arxiv.org/pdf/2411.02018
+
 ### Best Practices
 
 Best Practices and Lessons Learned on Synthetic Data
