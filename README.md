@@ -207,15 +207,6 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 Vikhr-Nemo-12B-Instruct-R-21-09-24 
 https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24
 
-Can we teach language models to gloss endangered languages?
-https://arxiv.org/pdf/2406.18895
-
-MERA: A Comprehensive LLM Evaluation in Russian
-https://arxiv.org/pdf/2401.04531
-
-A Family of Pretrained Transformer Language Models for Russian
-https://arxiv.org/pdf/2309.10931
-
 
 ## Q. Finance. Usage LLM/Transformers/RNN for market prediction
 
