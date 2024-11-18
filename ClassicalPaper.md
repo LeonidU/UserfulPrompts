@@ -11,3 +11,6 @@ https://arxiv.org/pdf/1708.02002
 
 Generative Adversarial Networks
 https://arxiv.org/abs/1406.2661
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+https://arxiv.org/pdf/1810.04805
