@@ -19,9 +19,6 @@ Mamba: Linear-Time Sequence Modeling with Selective State Spaces
 https://arxiv.org/pdf/2312.00752
 https://huggingface.co/state-spaces/mamba-2.8b-hf
 
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-https://arxiv.org/pdf/1810.04805
-
 BERTs are Generative In-Context Learners
 https://arxiv.org/pdf/2406.04823
 
