@@ -275,6 +275,8 @@ Recognise the text in this picture. Output as a result only the recognised text 
 
 Based on all our interactions, what's a career path I might enjoy that I might not realize l'd like?
 
+Roast me based on my previous prompts
+
 ### Anisotropic System Prompts
 
 https://docs.anthropic.com/en/release-notes/system-prompts
